@@ -28,11 +28,8 @@ EmoMTL is an emoji-aware multitask learning pipeline designed for classifying co
 - Results are reported using multi-fold cross-validation and accompanied by error analysis and interpretability artifacts (confusion matrices, attention/feature visualizations).
 
 ## How to cite
-If you use this work in research, please cite the repository or any associated publication/paper. (Add citation details or DOI here if available.)
+If you use this work in research, please ask for permission to the Author and cite the repository or any associated publication/paper. (Add citation details or DOI here if available.)
 
 ## Contact
 Mohammod Hamed Hasan — (GitHub: @Hamed18)  
 For dataset questions, reproduction help, or collaboration, open an issue or send a pull request.
-
-## License
-Add an explicit license (e.g., MIT) to clarify reuse permissions. If no license is present, the repository is not open-source by default.
