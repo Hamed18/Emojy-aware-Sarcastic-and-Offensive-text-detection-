@@ -2,7 +2,7 @@
 
 Author: Mohammod Hamed Hasan
 
-Tech: Python, Jupyter, Pandas, NumPy, Scikit-learn, PyTorch, Transformers models, Matplotlib, Seaborn  [Credential]
+Tech: Python, Jupyter, Pandas, NumPy, Scikit-learn, PyTorch, Transformers models, Matplotlib, Seaborn 
 
 ---
 
@@ -26,13 +26,6 @@ EmoMTL is an emoji-aware multitask learning pipeline designed for classifying co
 ## Results & evaluation
 - Comparative evaluation across 10+ baselines demonstrates that emoji-aware multitask learning with cross-stitch sharing consistently improves recall and F1 for under-represented labels compared to single-task transformer baselines.
 - Results are reported using multi-fold cross-validation and accompanied by error analysis and interpretability artifacts (confusion matrices, attention/feature visualizations).
-
-## Repository structure (example)
-- notebooks/                       — Jupyter notebooks for preprocessing, modeling, and evaluation
-- data/                            — Dataset files (examples / instructions to place the dataset here)
-- src/                             — Model, dataset, and training utility scripts (if available)
-- outputs/                         — Saved predictions, metrics, plots, and model checkpoints
-- README.md                        — This file
 
 ## How to cite
 If you use this work in research, please cite the repository or any associated publication/paper. (Add citation details or DOI here if available.)
